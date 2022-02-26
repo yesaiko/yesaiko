@@ -1,6 +1,6 @@
 ### Hello guys, I'm Sylwia 👋
 
-#### I work as an IT Support Specialist at Jabil. 
+#### I work as an IT Support Specialist at Jabil's company. 
 
 
 🔭 In my job I'm supporting over 3,000 users in SLA oriented (ServiceNow), corporate environment based on Windows 10 clients, I manage incidents by receiving, tracking, prioritizing, and documenting IT incidents, inquiries and requests for services via phone and web tickets, escalating incidents when necessary to the international team.
@@ -15,6 +15,8 @@
 
 - 🎓 I'm a 3rd year Computer Science student
 - 🌱 I’m currently taking a course on Machine Learning
-- 🐶 I love dogs -> especially mine ❤️
+- 🐶 I love dogs -> especially mine (look at him below!) ❤️
 
+<img src = "/../photos/milky.jpg?raw=true" alt="My doggie dude" width="140"/></img>
 ![Yesaiko GitHub stats](https://github-readme-stats.vercel.app/api?username=yesaiko&show_icons=true&theme=synthwave)
+
