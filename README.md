@@ -1,5 +1,5 @@
 ### Hello guys, I'm Sylwia 👋
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 #### I work as an IT Support Specialist at Jabil's company. 
 
 
@@ -18,5 +18,8 @@
 - 🐶 I love dogs -> especially mine (look at him below!) ❤️
 
 <img src = "/../photos/milky.jpg?raw=true" alt="My doggie dude" width="140"/></img>
-![Yesaiko GitHub stats](https://github-readme-stats.vercel.app/api?username=yesaiko&show_icons=true&theme=synthwave)
+![Yesaiko GitHub stats](https://github-readme-stats.vercel.app/api?username=yesaiko&show_icons=true&theme=synthwave)<br><br><br>
 
+<h2 id="jokezone">📌 JOKE ZONE</h2><br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
